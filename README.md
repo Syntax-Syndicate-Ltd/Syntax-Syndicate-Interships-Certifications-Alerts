@@ -313,7 +313,7 @@
 
 ---
 
-**✨ Crafted with Love by the Syntax Syndicate Community ✨ - ADINATH SOMNATH JAGTAP**
+**✨ Crafted with Love by the Syntax Syndicate Community ✨**
 
 *⭐ Star this repository if it's accelerating your career journey! ⭐*
 
