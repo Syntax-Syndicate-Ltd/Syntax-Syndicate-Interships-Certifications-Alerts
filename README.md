@@ -160,6 +160,113 @@
 </div>
 
 ---
+# 🌟 Home Internships for Students Opportunities! 🚀  
+
+Here are 10 amazing work-from-home internships for students. Don't miss out! 🎓  
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 2px; margin: 10px 0;">
+<div style="background: white; border-radius: 13px; padding: 0; overflow-x: auto;">
+
+<table style="width: 100%; min-width: 600px;">
+<tr>
+<th> # </th>
+<th> 🏢 Company </th>
+<th> 🎯 Role </th>
+<th> 🚀 Apply </th>
+</tr>
+
+<tr>
+<td>1️⃣</td>
+<td>Ume App</td>
+<td>Backend Developer Intern 💻</td>
+<td><a href="https://perfleap.com/2Hj6Pc">Apply</a></td>
+</tr>
+
+<tr>
+<td>2️⃣</td>
+<td>Supanote</td>
+<td>Prompt Engineer Intern ✍🤖</td>
+<td><a href="https://perfleap.com/97qS8D">Apply</a></td>
+</tr>
+
+<tr>
+<td>3️⃣</td>
+<td>Miror Ventures</td>
+<td>Fullstack Developer Intern 🌐</td>
+<td><a href="https://perfleap.com/R98NXm">Apply</a></td>
+</tr>
+
+<tr>
+<td>4️⃣</td>
+<td>Trovex</td>
+<td>Fullstack Developer Intern 🛠</td>
+<td><a href="https://perfleap.com/Dg0wYU">Apply</a></td>
+</tr>
+
+<tr>
+<td>5️⃣</td>
+<td>Aitium Inc</td>
+<td>Fullstack Developer Intern ⚙</td>
+<td><a href="https://perfleap.com/pEgjeI">Apply</a></td>
+</tr>
+
+<tr>
+<td>6️⃣</td>
+<td>RMgX Technologies</td>
+<td>Machine Learning Engineer 🤖📊</td>
+<td><a href="https://perfleap.com/Wx35TC">Apply</a></td>
+</tr>
+
+<tr>
+<td>7️⃣</td>
+<td>Secure Blink</td>
+<td>Frontend Developer Intern 🎨💻</td>
+<td><a href="https://perfleap.com/OuPOGB">Apply</a></td>
+</tr>
+
+<tr>
+<td>8️⃣</td>
+<td>Ume App</td>
+<td>Machine Learning Engineer Intern 🧠⚡</td>
+<td><a href="https://perfleap.com/Jaxo71">Apply</a></td>
+</tr>
+
+<tr>
+<td>9️⃣</td>
+<td>Datacquity</td>
+<td>Fullstack Developer Intern 🌍</td>
+<td><a href="https://perfleap.com/uVn42X">Apply</a></td>
+</tr>
+
+<tr>
+<td>🔟</td>
+<td>Vaizle</td>
+<td>Fullstack Developer Intern 🚀</td>
+<td><a href="https://perfleap.com/mHYd6I">Apply</a></td>
+</tr>
+</table>
+</div>
+</div>
+
+
+📌 **Eligibility**: Open to ALL students 🎓  
+⏰ **Hurry! Seats filling fast!**  
+🔥 Apply now and kick-start your career! 🚀 Share with your fellow peers.  
+
+---
+
+# 📢 Learning Opportunity Alert  
+
+Check out this awesome **Microsoft Learn module on AI Fundamentals**! 🤖  
+
+✨ **Why you should try it:**  
+- 🎯 Earn official **badges** and showcase them on your profile  
+- 🔥 Boost your **skills** and **credibility** in AI  
+- 💡 Quick and beginner-friendly  
+
+👉 [Start Learning Now](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/)  
+
+---
 
 ## 📱 Join Our WhatsApp Community
 
