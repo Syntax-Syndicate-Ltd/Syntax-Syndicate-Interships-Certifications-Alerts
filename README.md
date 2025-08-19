@@ -161,8 +161,16 @@
 
 ---
 # 🌟 Home Internships for Students Opportunities! 🚀  
+<div align="center">
 
-Here are 10 amazing work-from-home internships for students. Don't miss out! 🎓  
+### 🌟 10 Amazing Work From Home Internships 🚀
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=900&lines=💻+Backend+Developer+Intern+%7C+Ume+App;✍+Prompt+Engineer+Intern+%7C+Supanote;🌐+Fullstack+Developer+Intern+%7C+Miror+Ventures;🛠+Fullstack+Developer+Intern+%7C+Trovex;⚙+Fullstack+Developer+Intern+%7C+Aitium+Inc;🤖📊+ML+Engineer+Intern+%7C+RMgX+Technologies;🎨💻+Frontend+Developer+Intern+%7C+Secure+Blink;🧠⚡+ML+Engineer+Intern+%7C+Ume+App;🌍+Fullstack+Developer+Intern+%7C+Datacquity;🚀+Fullstack+Developer+Intern+%7C+Vaizle)](https://github.com/Syntax-Syndicate-Ltd/Syntax-Syndicate-Interships-Certifications-Alerts)
+
+[![Apply Now](https://img.shields.io/badge/🔗_Apply-Now-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Syntax-Syndicate-Ltd/Syntax-Syndicate-Interships-Certifications-Alerts)
+
+</div>
+
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 2px; margin: 10px 0;">
 <div style="background: white; border-radius: 13px; padding: 0; overflow-x: auto;">
@@ -254,8 +262,19 @@ Here are 10 amazing work-from-home internships for students. Don't miss out! �
 🔥 Apply now and kick-start your career! 🚀 Share with your fellow peers.  
 
 ---
-
 # 📢 Learning Opportunity Alert  
+<div align="center">
+
+### 🎯 Microsoft AI Fundamentals
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D9BF0&center=true&vCenter=true&width=600&lines=🚀+Boost+your+AI+skills!;🔥+Earn+badges+%26+certifications!;💡+Complete+the+AI+Fundamentals+course!)](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/)
+
+[![Visit Microsoft Learn](https://img.shields.io/badge/Visit-Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/)
+
+</div>
+
+
+
 
 Check out this awesome **Microsoft Learn module on AI Fundamentals**! 🤖  
 
